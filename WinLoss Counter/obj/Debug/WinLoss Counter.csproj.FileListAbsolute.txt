@@ -1,0 +1,38 @@
+d:\documentos\visual studio 2013\Projects\WinLoss Counter\WinLoss Counter\bin\Debug\WinLoss Counter.exe.config
+d:\documentos\visual studio 2013\Projects\WinLoss Counter\WinLoss Counter\obj\Debug\WinLoss_Counter.Form1.resources
+d:\documentos\visual studio 2013\Projects\WinLoss Counter\WinLoss Counter\obj\Debug\WinLoss_Counter.Properties.Resources.resources
+d:\documentos\visual studio 2013\Projects\WinLoss Counter\WinLoss Counter\obj\Debug\WinLoss Counter.csproj.GenerateResource.Cache
+d:\documentos\visual studio 2013\Projects\WinLoss Counter\WinLoss Counter\bin\Debug\WinLoss Counter.exe
+d:\documentos\visual studio 2013\Projects\WinLoss Counter\WinLoss Counter\bin\Debug\WinLoss Counter.pdb
+d:\documentos\visual studio 2013\Projects\WinLoss Counter\WinLoss Counter\obj\Debug\WinLoss Counter.exe
+d:\documentos\visual studio 2013\Projects\WinLoss Counter\WinLoss Counter\obj\Debug\WinLoss Counter.pdb
+D:\Documentos\Visual Studio 2013\Projects\WinLoss-Counter\WinLoss Counter\WinLoss Counter\bin\Debug\WinLoss Counter.exe.config
+D:\Documentos\Visual Studio 2013\Projects\WinLoss-Counter\WinLoss Counter\WinLoss Counter\obj\Debug\WinLoss Counter.exe
+D:\Documentos\Visual Studio 2013\Projects\WinLoss-Counter\WinLoss Counter\WinLoss Counter\obj\Debug\WinLoss Counter.pdb
+D:\Documentos\Visual Studio 2013\Projects\WinLoss-Counter\WinLoss Counter\WinLoss Counter\bin\Debug\WinLoss Counter.exe
+D:\Documentos\Visual Studio 2013\Projects\WinLoss-Counter\WinLoss Counter\WinLoss Counter\bin\Debug\WinLoss Counter.pdb
+D:\Documentos\Visual Studio 2013\Projects\WinLoss-Counter\WinLoss Counter\WinLoss Counter\obj\Debug\WinLoss Counter.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2013\Projects\WinLoss-Counter\WinLoss Counter\WinLoss Counter\obj\Debug\WinLoss_Counter.Form2.resources
+D:\Documentos\Visual Studio 2013\Projects\WinLoss-Counter\WinLoss Counter\WinLoss Counter\obj\Debug\WinLoss_Counter.Form1.resources
+D:\Documentos\Visual Studio 2013\Projects\WinLoss-Counter\WinLoss Counter\WinLoss Counter\obj\Debug\WinLoss_Counter.Properties.Resources.resources
+D:\Documentos\Visual Studio 2013\Projects\WinLoss-Counter\WinLoss Counter\WinLoss Counter\obj\Debug\WinLoss Counter.csproj.GenerateResource.Cache
+D:\Documentos\Diego\DEV\Apps\WinLossCounter\WinLoss Counter\bin\Debug\WinLoss Counter.exe.config
+D:\Documentos\Diego\DEV\Apps\WinLossCounter\WinLoss Counter\obj\Debug\WinLoss Counter.exe
+D:\Documentos\Diego\DEV\Apps\WinLossCounter\WinLoss Counter\obj\Debug\WinLoss Counter.pdb
+D:\Documentos\Diego\DEV\Apps\WinLossCounter\WinLoss Counter\bin\Debug\WinLoss Counter.exe
+D:\Documentos\Diego\DEV\Apps\WinLossCounter\WinLoss Counter\bin\Debug\WinLoss Counter.pdb
+D:\Documentos\Diego\DEV\Apps\WinLossCounter\WinLoss Counter\obj\Debug\WinLoss Counter.csprojResolveAssemblyReference.cache
+D:\Documentos\Diego\DEV\Apps\WinLossCounter\WinLoss Counter\obj\Debug\WinLoss_Counter.Form1.resources
+D:\Documentos\Diego\DEV\Apps\WinLossCounter\WinLoss Counter\obj\Debug\WinLoss_Counter.Properties.Resources.resources
+D:\Documentos\Diego\DEV\Apps\WinLossCounter\WinLoss Counter\obj\Debug\WinLoss Counter.csproj.GenerateResource.Cache
+D:\Documentos\Diego\DEV\Apps\WinLossCounter\WinLoss Counter\obj\Debug\WinLoss_Counter.About.resources
+D:\Documentos\Diego\DEV\Apps\WinLoss-Counter\WinLoss Counter\bin\Debug\WinLoss Counter.exe.config
+D:\Documentos\Diego\DEV\Apps\WinLoss-Counter\WinLoss Counter\obj\Debug\WinLoss Counter.exe
+D:\Documentos\Diego\DEV\Apps\WinLoss-Counter\WinLoss Counter\obj\Debug\WinLoss Counter.pdb
+D:\Documentos\Diego\DEV\Apps\WinLoss-Counter\WinLoss Counter\bin\Debug\WinLoss Counter.exe
+D:\Documentos\Diego\DEV\Apps\WinLoss-Counter\WinLoss Counter\bin\Debug\WinLoss Counter.pdb
+D:\Documentos\Diego\DEV\Apps\WinLoss-Counter\WinLoss Counter\obj\Debug\WinLoss Counter.csprojResolveAssemblyReference.cache
+D:\Documentos\Diego\DEV\Apps\WinLoss-Counter\WinLoss Counter\obj\Debug\WinLoss_Counter.About.resources
+D:\Documentos\Diego\DEV\Apps\WinLoss-Counter\WinLoss Counter\obj\Debug\WinLoss_Counter.Form1.resources
+D:\Documentos\Diego\DEV\Apps\WinLoss-Counter\WinLoss Counter\obj\Debug\WinLoss_Counter.Properties.Resources.resources
+D:\Documentos\Diego\DEV\Apps\WinLoss-Counter\WinLoss Counter\obj\Debug\WinLoss Counter.csproj.GenerateResource.Cache
